@@ -1,2 +1,2 @@
 # Respansive_webpage
-My first responsive website design
+My first responsive website design for Html css & javascript
